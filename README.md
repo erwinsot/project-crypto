@@ -37,7 +37,7 @@ Cada uno de los tres servicios IoT envía información al servidor central en fo
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/usuario/proyecto-iot.git
+   git clone https://github.com/erwinsot/project-crypto.git
    cd proyecto-iot
    ```
 2. Configurar `.env` para variables de entorno:
